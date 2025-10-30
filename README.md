@@ -1,5 +1,6 @@
 <h1>Projeto: Jokenpô</h1>
 
+![App em funcionamento](imagens/jokenpo.gif)
 
 <h2>Descrição do projeto</h2>
 
